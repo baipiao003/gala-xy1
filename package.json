@@ -1,7 +1,7 @@
 {
-  "name": "node",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "node",
+  "description": "nodejs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
